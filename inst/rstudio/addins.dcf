@@ -1,6 +1,6 @@
-Name: Insert %in%
-Description: Inserts `%in%` at the cursor position.
-Binding: insertInAddin
+Name: basePipe newLine
+Description: cria o novo pipe, indentado e com nova linha
+Binding: basePipeNewlineIndent
 Interactive: false
 
 Name: Find and Replace
